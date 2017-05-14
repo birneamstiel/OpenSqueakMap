@@ -1,4 +1,4 @@
-I am part of a map, delimited by geocoordinates. I can download my own data, create according RenderObjects and tell them to render themselves. I can be moved with fullMoveBy: which results in all my RenderObjects being moved accordingly.
+I am part of a map, delimited by geo coordinates. I can download my own data, create according RenderObjects and tell them to render themselves. I can be moved with fullMoveBy: which results in all my RenderObjects being moved accordingly.
 
 Instance Variables
 	chunkManager:		<OSMChunkManager>
